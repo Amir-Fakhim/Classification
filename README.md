@@ -55,7 +55,7 @@ Models that predict multiple outcomes in multi-label classification tasks are co
 
  
 
-# Imbalanced Classification
+## Imbalanced Classification
 
 When examples in different classes are unequally distributed, this is called imbalanced classification.
 
