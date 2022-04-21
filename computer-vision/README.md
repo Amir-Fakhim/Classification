@@ -1,7 +1,7 @@
 # <h1 align="center">Garbage Classification using NASNetLarge fine-tunning</h1>
 
 <p align="center">
-  <img width="200" src="https://github.com/amirfakhim/Classification/blob/master/computer-vision/Image/111.jpg" alt="Garbage Classification">
+  <img width="500" src="https://github.com/amirfakhim/Classification/blob/master/computer-vision/Image/111.jpg" alt="Garbage Classification">
 </p>
 
 For researchers in machine learning and computer vision, segmenting and classifying images is of interest. There is a great need for accurate and efficient algorithms to segment and classify images. In tandem with a rise in computational power in computer architectures and improvements in image recognition algorithms, there is an increase in demand. Convolutional neural networks are commonly used to classify and recognize images, which enables automation in many industries. This model presents a system for classifying garbage, using convolutional neural networks (modified NASNetLarge structure) and trained with only about 2500 data and test accuracy of 96.5%.
